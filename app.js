@@ -1,3 +1,4 @@
+
 // this  is event handler of button with updating price 
 // this  is event handler of button with updating price 
 function updateProductNumber(product,price,inCreasing){
